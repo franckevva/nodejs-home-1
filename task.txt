@@ -1,0 +1,13 @@
+Homework:
+1)	Install node.js in the system
+2)	Install nvm
+3)	Try to use different node.js versions
+4)	Create txt file with any name
+5)	Create new node.js application 
+6)	Get two parameters from command line, first filename and second method
+7)	Import file system and child process libraries to the application
+8)	Create file watcher and get filename parameter from command line arguments 
+9)	If text file is changing, run child process and:
+a.	If method parameter “Copy”: Copy current text file to same folder and rename it to old filename + current date (use cp or copy command for linux and windows systems)  
+b.	If method parameter “Del”: Delete file (use rm or del command)
+10)	Please create new repository in the Github and push all changes to this repo and send link to new project to me
